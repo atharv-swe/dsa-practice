@@ -1,0 +1,6 @@
+#include<iostream>
+  using namespace std:
+
+int amin(){
+  cout << "Day 1 - My journey starts today" << endl;
+}
